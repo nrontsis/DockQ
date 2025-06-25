@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "cython", "numpy>=2.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "dockq"
+name = "dockq-iso"
 version = "2.1.3"
 authors = [
   { name="Claudio Mirabello", email="claudio.mirabello@scilifelab.se" },
